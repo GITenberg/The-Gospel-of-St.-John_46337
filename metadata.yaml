@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43729'
     url: http://www.gutenberg.org/2009/agents/43729
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46337#The-Gospel-of-St.-John
 gutenberg_issued: '2014-07-19'
 gutenberg_type: Text
 identifiers:
