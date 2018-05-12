@@ -1,0 +1,26 @@
+_repo: The-Gospel-of-St.-John_46337
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46337-h/images/cover.jpg
+creator:
+  author:
+    agent_name: MacRory, Joseph
+    birthdate: 1861
+    deathdate: 1945
+    gutenberg_agent_id: '43729'
+    url: http://www.gutenberg.org/2009/agents/43729
+description: ''
+gutenberg_issued: '2014-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46337'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. John -- Criticism, interpretation, etc.'
+- !lcc 'BS'
+title: The Gospel of St. John
+url: http://www.gutenberg.org/ebooks/46337
